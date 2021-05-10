@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>VK Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.61.113:8081/repository/paytm-Release/</url>
+	      <name>Maven-web-Release</name>
+	      <url>http://13.232.255.68:8081/repository/Maven-web-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>VK Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.61.113:8081/repository/paytm-Snapshot/</url>
+	      <name>Maven-wen-snapshot</name>
+	      <url>http://13.232.255.68:8081/repository/Maven-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
