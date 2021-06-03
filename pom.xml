@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Jenkins_release</name>
-	      <url>http://15.207.89.227:8081/repository/Jenkins_release/</url>
+	      <url>http://15.207.89.107:8081/repository/Jenkins_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
