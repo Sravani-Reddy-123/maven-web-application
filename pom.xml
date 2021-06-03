@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Jenkins_release</name>
-	      <url>http://15.207.89.207:8081/repository/Jenkins_release/</url>
+	      <url>http://15.207.89.227:8081/repository/Jenkins_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Jenkins_snapshot</name>
-	      <url>http://15.207.89.177:8081/repository/Jenkins_snapshot/</url>
+	      <url>http://15.207.89.222:8081/repository/Jenkins_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
